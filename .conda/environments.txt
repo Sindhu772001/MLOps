@@ -1,3 +1,0 @@
-
-C:\Users\periy\anaconda3\envs\venv
-D:\MLProject\venv
